@@ -14,9 +14,9 @@ object detecting
 
 **System Dependency:** Ubuntu16.04
 
-** Software Dependency:** Cmake2.8 or upper, C++11, OpenCV3.4.0(only), darknet
+**Software Dependency:** Cmake2.8 or upper, C++11, OpenCV3.4.0(only), darknet
 
-** Hardware Environment:** 
+**Hardware Environment:** 
 
 ```
 Computer1: CPU:i7-4720HQ GPU:Nvidia GTX960M-2GB RAM:12GB
